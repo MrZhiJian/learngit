@@ -22,3 +22,4 @@ hello word!
 >>>>>>> refs/remotes/origin1/master
 branch test
 branch test 2
+这是新的一句话
