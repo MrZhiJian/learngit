@@ -6,3 +6,18 @@ hello word!
 不可能的
 再一次要推送到远程了
 回顾推送到远程
+两周后的复习
+复习
+打字
+<<<<<<< HEAD
+好好好
+=======
+>>>>>>> refs/remotes/origin1/master
+>>>>>>> refs/remotes/origin1/master
+>>>>>>> refs/remotes/origin1/master
+>>>>>>> refs/remotes/origin1/master>>>>>>> refs/remotes/origin1/master
+>>>>>>> refs/remotes/origin1/master
+>>>>>>> refs/remotes/origin1/master
+>>>>>>> refs/remotes/origin1/master
+>>>>>>> refs/remotes/origin1/master
+branch test
