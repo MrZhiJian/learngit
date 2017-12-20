@@ -22,4 +22,5 @@ hello word!
 >>>>>>> refs/remotes/origin1/master
 branch test
 branch test 2
-这是为制造冲突加入的新的一句话
+这是冲突的一句话
+
